@@ -1,252 +1,58 @@
-[{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/assets/pages/AddCar.jsx",
-	"owner": "typescript",
-	"code": "1005",
-	"severity": 8,
-	"message": "',' expected.",
-	"source": "ts",
-	"startLineNumber": 14,
-	"startColumn": 42,
-	"endLineNumber": 14,
-	"endColumn": 43
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/assets/pages/AddCar.jsx",
-	"owner": "typescript",
-	"code": "1005",
-	"severity": 8,
-	"message": "',' expected.",
-	"source": "ts",
-	"startLineNumber": 14,
-	"startColumn": 43,
-	"endLineNumber": 14,
-	"endColumn": 44
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/assets/pages/AddCar.jsx",
-	"owner": "typescript",
-	"code": "1005",
-	"severity": 8,
-	"message": "',' expected.",
-	"source": "ts",
-	"startLineNumber": 14,
-	"startColumn": 51,
-	"endLineNumber": 14,
-	"endColumn": 52
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/assets/pages/AddCar.jsx",
-	"owner": "typescript",
-	"code": "1472",
-	"severity": 8,
-	"message": "'catch' or 'finally' expected.",
-	"source": "ts",
-	"startLineNumber": 15,
-	"startColumn": 7,
-	"endLineNumber": 15,
-	"endColumn": 8
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/assets/pages/AddCar.jsx",
-	"owner": "typescript",
-	"code": "1005",
-	"severity": 8,
-	"message": "',' expected.",
-	"source": "ts",
-	"startLineNumber": 15,
-	"startColumn": 8,
-	"endLineNumber": 15,
-	"endColumn": 9
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/assets/pages/AddCar.jsx",
-	"owner": "typescript",
-	"code": "1005",
-	"severity": 8,
-	"message": "'try' expected.",
-	"source": "ts",
-	"startLineNumber": 17,
-	"startColumn": 7,
-	"endLineNumber": 17,
-	"endColumn": 12
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/assets/pages/AddCar.jsx",
-	"owner": "typescript",
-	"code": "1128",
-	"severity": 8,
-	"message": "Declaration or statement expected.",
-	"source": "ts",
-	"startLineNumber": 21,
-	"startColumn": 3,
-	"endLineNumber": 21,
-	"endColumn": 4
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/assets/pages/AddCar.jsx",
-	"owner": "typescript",
-	"code": "1128",
-	"severity": 8,
-	"message": "Declaration or statement expected.",
-	"source": "ts",
-	"startLineNumber": 33,
-	"startColumn": 1,
-	"endLineNumber": 33,
-	"endColumn": 2
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/components/ChatBot.jsx",
-	"owner": "typescript",
-	"code": "1005",
-	"severity": 8,
-	"message": "',' expected.",
-	"source": "ts",
-	"startLineNumber": 21,
-	"startColumn": 35,
-	"endLineNumber": 21,
-	"endColumn": 36
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/components/ChatBot.jsx",
-	"owner": "typescript",
-	"code": "1005",
-	"severity": 8,
-	"message": "',' expected.",
-	"source": "ts",
-	"startLineNumber": 21,
-	"startColumn": 36,
-	"endLineNumber": 21,
-	"endColumn": 37
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/components/ChatBot.jsx",
-	"owner": "typescript",
-	"code": "1005",
-	"severity": 8,
-	"message": "':' expected.",
-	"source": "ts",
-	"startLineNumber": 21,
-	"startColumn": 43,
-	"endLineNumber": 21,
-	"endColumn": 44
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/components/ChatBot.jsx",
-	"owner": "typescript",
-	"code": "1005",
-	"severity": 8,
-	"message": "',' expected.",
-	"source": "ts",
-	"startLineNumber": 22,
-	"startColumn": 25,
-	"endLineNumber": 22,
-	"endColumn": 26
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/components/ChatBot.jsx",
-	"owner": "typescript",
-	"code": "1005",
-	"severity": 8,
-	"message": "',' expected.",
-	"source": "ts",
-	"startLineNumber": 23,
-	"startColumn": 9,
-	"endLineNumber": 23,
-	"endColumn": 10
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/components/ChatBot.jsx",
-	"owner": "typescript",
-	"code": "1472",
-	"severity": 8,
-	"message": "'catch' or 'finally' expected.",
-	"source": "ts",
-	"startLineNumber": 24,
-	"startColumn": 7,
-	"endLineNumber": 24,
-	"endColumn": 8
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/components/ChatBot.jsx",
-	"owner": "typescript",
-	"code": "1005",
-	"severity": 8,
-	"message": "',' expected.",
-	"source": "ts",
-	"startLineNumber": 24,
-	"startColumn": 8,
-	"endLineNumber": 24,
-	"endColumn": 9
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/components/ChatBot.jsx",
-	"owner": "typescript",
-	"code": "1005",
-	"severity": 8,
-	"message": "'try' expected.",
-	"source": "ts",
-	"startLineNumber": 28,
-	"startColumn": 7,
-	"endLineNumber": 28,
-	"endColumn": 12
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/components/ChatBot.jsx",
-	"owner": "typescript",
-	"code": "1128",
-	"severity": 8,
-	"message": "Declaration or statement expected.",
-	"source": "ts",
-	"startLineNumber": 31,
-	"startColumn": 3,
-	"endLineNumber": 31,
-	"endColumn": 4
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/components/ChatBot.jsx",
-	"owner": "typescript",
-	"code": "1128",
-	"severity": 8,
-	"message": "Declaration or statement expected.",
-	"source": "ts",
-	"startLineNumber": 53,
-	"startColumn": 1,
-	"endLineNumber": 53,
-	"endColumn": 2
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/backend/package.json",
-	"owner": "_generated_diagnostic_collection_name_#0",
-	"code": "768",
-	"severity": 4,
-	"message": "Problems loading reference 'https://json.schemastore.org/package': Unable to load schema from 'https://json.schemastore.org/package': getaddrinfo ENOTFOUND json.schemastore.org.",
-	"startLineNumber": 1,
-	"startColumn": 1,
-	"endLineNumber": 1,
-	"endColumn": 2
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/package.json",
-	"owner": "_generated_diagnostic_collection_name_#0",
-	"code": "768",
-	"severity": 4,
-	"message": "Problems loading reference 'https://json.schemastore.org/package': Unable to load schema from 'https://json.schemastore.org/package': getaddrinfo ENOTFOUND json.schemastore.org.",
-	"startLineNumber": 1,
-	"startColumn": 1,
-	"endLineNumber": 1,
-	"endColumn": 2
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/index.css",
-	"owner": "_generated_diagnostic_collection_name_#3",
-	"code": "unknownAtRules",
-	"severity": 4,
-	"message": "Unknown at rule @tailwind",
-	"source": "css",
-	"startLineNumber": 1,
-	"startColumn": 1,
-	"endLineNumber": 1,
-	"endColumn": 10
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/index.css",
-	"owner": "_generated_diagnostic_collection_name_#3",
-	"code": "unknownAtRules",
-	"severity": 4,
-	"message": "Unknown at rule @tailwind",
-	"source": "css",
-	"startLineNumber": 2,
-	"startColumn": 1,
-	"endLineNumber": 2,
-	"endColumn": 10
-},{
-	"resource": "/c:/Users/Administrator/Desktop/ibnabdulkabeerautos/frontend/src/index.css",
-	"owner": "_generated_diagnostic_collection_name_#3",
-	"code": "unknownAtRules",
-	"severity": 4,
-	"message": "Unknown at rule @tailwind",
-	"source": "css",
-	"startLineNumber": 3,
-	"startColumn": 1,
-	"endLineNumber": 3,
-	"endColumn": 10
-}]
+import { useState } from "react";
+import axios from "../../api/axios"; 
+
+export default function ChatBot() {
+  const [isOpen, setIsOpen] = useState(false);
+  const [messages, setMessages] = useState([]);
+  const [input, setInput] = useState("");
+
+  const sendMessage = async () => {
+    if (!input.trim()) return;
+    
+    const newMessages = [...messages, { role: "user", content: input }];
+    setMessages(newMessages);
+    setInput("");
+
+    try {
+      const { data } = await axios.post("/chat", { message: input });
+      setMessages([...newMessages, { role: "assistant", content: data.reply }]);
+    } catch (error) {
+      console.error("Chat error:", error);
+      setMessages([...newMessages, { role: "assistant", content: "Sorry, I'm having trouble connecting." }]);
+    }
+  };
+
+  return (
+    <div className="fixed bottom-4 right-4 z-50">
+      {!isOpen && (
+        <button onClick={() => setIsOpen(true)} className="bg-blue-600 text-white p-3 rounded-full shadow-lg">
+          Chat
+        </button>
+      )}
+      {isOpen && (
+        <div className="bg-white w-80 h-96 border rounded-lg shadow-xl flex flex-col">
+          <div className="bg-blue-600 text-white p-2 flex justify-between items-center rounded-t-lg">
+            <span>Assistant</span>
+            <button onClick={() => setIsOpen(false)}>X</button>
+          </div>
+          <div className="flex-1 p-2 overflow-y-auto space-y-2">
+            {messages.map((msg, idx) => (
+              <div key={idx} className={`p-2 rounded ${msg.role === "user" ? "bg-blue-100 self-end" : "bg-gray-100"}`}>
+                {msg.content}
+              </div>
+            ))}
+          </div>
+          <div className="p-2 border-t flex">
+            <input 
+              value={input} 
+              onChange={(e) => setInput(e.target.value)} 
+              className="flex-1 border p-1 rounded"
+              placeholder="Ask something..."
+            />
+            <button onClick={sendMessage} className="ml-2 bg-blue-600 text-white px-2 rounded">Send</button>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
