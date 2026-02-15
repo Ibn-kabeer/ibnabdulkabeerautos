@@ -1,6 +1,7 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
 import { SpeedInsights } from "@vercel/speed-insights/react";
+import { Analytics } from "@vercel/analytics/react";
 import Home from "./assets/pages/Home";
 import Cars from "./assets/pages/Cars";
 import AddCar from "./assets/pages/AddCar";
@@ -18,6 +19,7 @@ export default function App() {
         <Route path="/admin-login" element={<AdminLogin />} />
       </Routes>
       <SpeedInsights />
+      <Analytics />
     </div>
   );
 }
