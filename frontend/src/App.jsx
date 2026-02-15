@@ -1,9 +1,10 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
-import Home from "./pages/Home";
-import Cars from "./pages/Cars";
-import AddCar from "./pages/AddCar";
-import AdminLogin from "./pages/AdminLogin";
+import { SpeedInsights } from "@vercel/speed-insights/react";
+import Home from "./assets/pages/Home";
+import Cars from "./assets/pages/Cars";
+import AddCar from "./assets/pages/AddCar";
+import AdminLogin from "./assets/pages/AdminLogin";
 import Navbar from "./components/Navbar";
 
 export default function App() {
@@ -16,6 +17,7 @@ export default function App() {
         <Route path="/add-car" element={<AddCar />} />
         <Route path="/admin-login" element={<AdminLogin />} />
       </Routes>
+      <SpeedInsights />
     </div>
   );
 }
