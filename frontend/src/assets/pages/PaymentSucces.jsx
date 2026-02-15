@@ -1,7 +1,7 @@
 // src/pages/PaymentSuccess.jsx
 import { useEffect } from "react";
 import { useSearchParams } from "react-router-dom";
-import axios from "../../api/axios";
+import axios from "axios";
 
 export default function PaymentSuccess() {
   const [searchParams] = useSearchParams();
@@ -9,7 +9,7 @@ export default function PaymentSuccess() {
 
   useEffect(() => {
     if (reference) {
-      axios.get(`/payments/verify/${reference}`)
+      axios.get(`http://localhost:5000/api/payments/verify/${reference}`)
         .then(res => {
           if (res.data.data.status === "success") alert("Payment successful!");
         })

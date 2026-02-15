@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import axios from "../../api/axios";
+import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
 export default function AdminLogin() {
@@ -11,7 +11,7 @@ export default function AdminLogin() {
   const handleSubmit = async e => {
     e.preventDefault();
     try {
-      const res = await axios.post("/auth/login", form);
+      const res = await axios.post("http://localhost:5000/api/auth/login", form);
       localStorage.setItem("token", res.data.token);
       alert("Logged in!");
       navigate("/add-car");

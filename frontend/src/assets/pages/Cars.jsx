@@ -1,5 +1,5 @@
 import { useState } from "react";
-import axios from "../../api/axios";
+import axios from "axios";
 
 export default function Cars() {
   const [cars, setCars] = useState([]);
@@ -10,7 +10,7 @@ export default function Cars() {
 
     try {
       // Initialize Payment
-      const { data } = await axios.post("/payments/pay", {
+      const { data } = await axios.post("http://localhost:5000/api/payments/pay", {
         email,
         amount: car.price
       });
@@ -26,7 +26,7 @@ export default function Cars() {
   };
 
   useEffect(() => {
-    axios.get("/cars")
+    axios.get("http://localhost:5000/api/cars")
       .then(res => setCars(res.data))
       .catch(err => console.error(err));
   }, []);
