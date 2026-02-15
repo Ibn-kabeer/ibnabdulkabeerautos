@@ -6,11 +6,13 @@ import AddCar from "./assets/pages/AddCar";
 import AdminLogin from "./assets/pages/AdminLogin";
 import PaymentSuccess from "./assets/pages/PaymentSucces";
 import Navbar from "./components/Navbar";
+import ChatBot from "./components/ChatBot";
 
 export default function App() {
   return (
     <div className="min-h-screen flex flex-col">
       <Navbar />
+      <ChatBot />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/cars" element={<Cars />} />
