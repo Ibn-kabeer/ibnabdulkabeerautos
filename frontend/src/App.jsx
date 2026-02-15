@@ -1,9 +1,10 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
-import Home from "./pages/Home";
-import Cars from "./pages/Cars";
-import AddCar from "./pages/AddCar";
-import AdminLogin from "./pages/AdminLogin";
+import Home from "./assets/pages/Home";
+import Cars from "./assets/pages/Cars";
+import AddCar from "./assets/pages/AddCar";
+import AdminLogin from "./assets/pages/AdminLogin";
+import PaymentSuccess from "./assets/pages/PaymentSucces";
 import Navbar from "./components/Navbar";
 
 export default function App() {
